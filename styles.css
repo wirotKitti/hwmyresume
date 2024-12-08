@@ -1,0 +1,24 @@
+.table-a{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+}
+
+td, th{
+    border: 1px solid;
+}
+
+.table-b {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 600px;
+}
+
+form{
+    border: 2px solid;
+    width: 400px;
+    padding: 30px;
+}
+.input-a{
+    width: 200px;
+}
