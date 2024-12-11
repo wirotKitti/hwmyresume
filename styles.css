@@ -20,5 +20,10 @@ form{
     padding: 30px;
 }
 .input-a{
-    width: 200px;
+    width: 50%;
+}
+
+select {
+    /* width: 200px; */
+    padding-right: calc(30% + 23px);
 }
